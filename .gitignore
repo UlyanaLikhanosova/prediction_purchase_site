@@ -1,0 +1,11 @@
+data/*.csv
+
+!data/online_shoppers_intention.csv
+
+.DS_Store
+
+__pycache__/
+
+*.pyc
+
+.ipynb_checkpoints/ 
